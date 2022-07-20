@@ -1,0 +1,104 @@
+/*  made a sytle for everything within the body of the web page */
+
+body {
+    background-color: olive;
+    padding: 0px
+    max-width: 0px;
+     margin: auto;
+   }
+
+
+
+
+/* Created custom background style for the webpage header */
+
+h1 {
+    
+    padding: 0px;
+    margin: 10px;
+    color: black;
+    font-size: 60px;
+    font-family:cursive;
+    width: auto
+    height:0px;
+     text-align:center
+  }
+
+
+
+/* i styled my image of myself pulled from my  desktop */
+.img-style {
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+   
+}
+
+/* Created a div container to allgin all everything in the center*/
+
+div{
+  text-align:center
+}
+/* created a background and sytled my second header */
+h2 {
+    
+    font-size: 23px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* created a background and sytled my thrid header */
+h3 {
+    
+    font-size: 23px;
+    margin:auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* created a background and sytled my fourth header */
+h4 {
+
+font-size: 23px;
+margin:auto;
+font-family: Arial, Helvetica, sans-serif;
+}
+    
+/*  centered my unordred/ordered list as bullet points and aligned wthem with each other */
+.list-inside li,
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+
+/* i gave the links colors to know the active status of them */
+
+a:link {
+    color: purple;
+}
+
+a:visited {
+    color: lightpink;
+}
+
+a:hover {
+    color: lavender;
+}
+
+a:active {
+    color: lavenderblush;
+}
+
+
+/* set a background for the footer and set a margin */
+
+footer {
+    background: lightgrey;
+    color: black
+    margin: auto;
+    width: auto;
+}
