@@ -2,8 +2,6 @@
 
 body {
     background-color: olive;
-    padding: 0px
-    max-width: 0px;
      margin: auto;
    }
 
@@ -19,8 +17,6 @@ h1 {
     color: black;
     font-size: 60px;
     font-family:cursive;
-    width: auto
-    height:0px;
      text-align:center
   }
 
@@ -98,7 +94,7 @@ a:active {
 
 footer {
     background: lightgrey;
-    color: black
+    color: black;
     margin: auto;
     width: auto;
 }
